@@ -20,7 +20,7 @@ This project aims to create a prototype recommendation engine for recommending s
 The data for this project was gathered by web scraping from an online guitar store. The data collected includes the brand, model, body shape, number of frets, number of strings, pickup types, price of each guitar along with many other features. The data was then processed and consolidated into a single dataset.
 
 ## Exploratory Data Analysis and Feature Selection
-After collecting and consolidating the data, exploratory data analysis (EDA) was performed to gain insights into the dataset. The EDA process involved analyzing the distributions of features, looking for correlations between features, and identifying any outliers or missing values.
+After collecting and consolidating the data, exploratory data analysis (EDA) was performed to gain insights into the dataset. The EDA process involved analyzing the distributions of features, looking for correlations between features, and identifying any outliers or missing values. Some interesting information is obtained from this such as most brands having similarly priced entry models. Additionally brands can be seperated into more common value and bespoke groups when their median prices are examined.
 
 Based on the results of the EDA, feature selection was performed to identify the most relevant features for clustering and recommendation. The selected features include brand, model, number of frets, radius, price, scale length and bridge type.
 
