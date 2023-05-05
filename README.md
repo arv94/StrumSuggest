@@ -2,7 +2,7 @@
 
 ## Prototype Recommendation Engine for Similar Guitars
 
-This project aims to create a prototype recommendation engine for recommending similar electric guitars to users. The recommendation engine will work by clustering guitars based on their specifications and use that as the basis for the recommendation function. This was a time limited capstone project that was completed in 7-10 days so there is much room for improvement.
+This project aims to create a prototype recommendation engine for recommending similar electric guitars to users. The recommendation engine will work by clustering guitars based on their specifications and use that as the basis for the recommendation function. This was a time limited capstone project that was completed in ~7 days so there is much room for improvement.
 
 ## Code and Resources Used
 **Editors:** 
